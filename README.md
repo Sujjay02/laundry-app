@@ -21,7 +21,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/laundry-optimizer.git
+git clone https://github.com/Sujjay02/laundry-optimizer.git
 cd laundry-optimizer
 ```
 
