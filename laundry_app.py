@@ -23,7 +23,7 @@ LOCATION_DATA = {
 }
 
 # OpenEI API Key (Use 'DEMO_KEY' for testing, but it has rate limits)
-OPENEI_API_KEY = "DEMO_KEY"
+OPENEI_API_KEY = "fHd0wUekO3hrS8BqVIjEEOhLcNx86E4Q6Pn7baqR"
 
 class LaundryOptimizerApp:
     def __init__(self, root):
