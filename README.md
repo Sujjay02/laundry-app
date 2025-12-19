@@ -21,8 +21,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Sujjay02/laundry-optimizer.git
-cd laundry-optimizer
+git clone https://github.com/Sujjay02/laundry-app.git
+cd laundry-app
 ```
 
 ### 2. Install Dependencies
